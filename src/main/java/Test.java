@@ -4,5 +4,6 @@ public class Test {
         System.out.println("GIT");
         System.out.println("Version Kontrolle");
         System.out.println("Java");
+        System.out.println("IntelliJ");
     }
 }
